@@ -1,3 +1,11 @@
+<!-- Background Image Banner -->
+<!-- Background GIF Banner -->
+<div align="center" style="position: relative;">
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+       alt="Animated Banner" 
+       style="width:100%; height:auto; border-radius: 10px;" />
+</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Yadav!;MERN+%2B+Java+%2F+Spring+Boot+Dev;Love+to+Build+Cool+Stuff!;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
