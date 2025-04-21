@@ -1,3 +1,8 @@
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Yadav!;MERN+%2B+Java+%2F+Spring+Boot+Dev;Love+to+Build+Cool+Stuff!;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Building smart, scalable full-stack applications with 🔥 MERN stack and Spring Boot – blending the best of both worlds!<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, hackathons, or any tech that makes lives easier – especially in EdTech, AI, or productivity tools. Let's build something epic! 🚀<br><br>🤝 I’m looking for help with:<br>Leveling up in **DevOps**, **System Design**, and **Distributed Systems**. If you’re a Kubernetes or AWS wizard – let’s connect! ☁️⚙️<br><br>🌱 I’m currently learning:<br>Deep-diving into **Apache Spark**, **Microservices Architecture**, and **Advanced Python for Data Science**. Plus, sharpening my public speaking & communication game 🎤🧠<br><br>💬 Ask me about:<br>Java, Spring Boot, MERN stack, REST APIs, Cloud deployment, and how to stay sane while debugging at 3 AM ☕💻<br><br>⚡ Fun fact:<br>I once built a fully functional app in a weekend... fueled only by chai and bad jokes. Also, I can explain recursion using Maggi noodles 🍜🧠<br>
 
