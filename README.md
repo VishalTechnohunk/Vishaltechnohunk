@@ -16,7 +16,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Always+learning+new+tech!;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 </p>
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<!-- About Me Section with Image on Right -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; padding: 20px 0;">
+  
+  <!-- Left Side Content -->
   <div style="flex: 1; min-width: 300px; max-width: 600px;">
     <h2>💫 About Me</h2>
     <p>🔥 Full-stack dev blending the power of MERN & Spring Boot.</p>
@@ -25,9 +28,14 @@
     <p>💬 Talk to me about Java, APIs, or 3 AM bug hunts.</p>
     <p>🧠 Fun fact: I explain recursion using Maggi noodles 🍜</p>
   </div>
+
+  <!-- Right Side Image -->
   <div style="flex-shrink: 0;">
-  
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
+         alt="Developer Animation" 
+         style="max-width: 300px; height: auto; border-radius: 10px;" />
   </div>
+
 </div>
 
 
