@@ -10,7 +10,12 @@
 
 
 
+<h1 align="center">Hi 👋, I'm Nagendra Kumar</h1>
+<h3 align="center">Full Stack Developer | Java & MERN Enthusiast | Cloud Explorer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Always+learning+new+tech!;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
+</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; max-width: 600px;">
