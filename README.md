@@ -19,8 +19,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Yadav!;MERN+%2B+Java+%2F+Spring+Boot+Dev;Love+to+Build+Cool+Stuff!;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building smart, scalable full-stack applications with 🔥 MERN stack and Spring Boot – blending the best of both worlds!<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, hackathons, or any tech that makes lives easier – especially in EdTech, AI, or productivity tools. Let's build something epic! 🚀<br><br>🤝 I’m looking for help with:<br>Leveling up in **DevOps**, **System Design**, and **Distributed Systems**. If you’re a Kubernetes or AWS wizard – let’s connect! ☁️⚙️<br><br>🌱 I’m currently learning:<br>Deep-diving into **Apache Spark**, **Microservices Architecture**, and **Advanced Python for Data Science**. Plus, sharpening my public speaking & communication game 🎤🧠<br><br>💬 Ask me about:<br>Java, Spring Boot, MERN stack, REST APIs, Cloud deployment, and how to stay sane while debugging at 3 AM ☕💻<br><br>⚡ Fun fact:<br>I once built a fully functional app in a weekend... fueled only by chai and bad jokes. Also, I can explain recursion using Maggi noodles 🍜🧠<br>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
+    <h2>💫 About Me</h2>
+    <p>🔥 Full-stack dev blending the power of MERN & Spring Boot.</p>
+    <p>🚀 Building smart apps in EdTech, AI & productivity.</p>
+    <p>⚙️ Learning Apache Spark, Microservices & DevOps magic.</p>
+    <p>💬 Talk to me about Java, APIs, or 3 AM bug hunts.</p>
+    <p>🧠 Fun fact: I explain recursion using Maggi noodles 🍜</p>
+  </div>
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+       alt="Animated Banner" 
+       style="width: 300px; border-radius: 12px;" />
+</div>
+
 
 
 ## 🌐 Socials:
