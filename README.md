@@ -16,6 +16,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Always+learning+new+tech!;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 </p>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; max-width: 600px;">
+    <h2>💫 About Me</h2>
+    <p>🔥 Full-stack dev blending the power of MERN & Spring Boot.</p>
+    <p>🚀 Building smart apps in EdTech, AI & productivity.</p>
+    <p>⚙️ Learning Apache Spark, Microservices & DevOps magic.</p>
+    <p>💬 Talk to me about Java, APIs, or 3 AM bug hunts.</p>
+    <p>🧠 Fun fact: I explain recursion using Maggi noodles 🍜</p>
+  </div>
+  <div style="flex-shrink: 0;">
+  
+  </div>
+</div>
 
 
 
