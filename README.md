@@ -53,10 +53,20 @@
          alt="Developer Animation" 
          style="max-width: 300px; height: auto; border-radius: 10px;" />
   </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishalTechnohunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VishalTechnohunk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTechnohunk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalTechnohunk&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=VishalTechnohunk&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalTechnohunk&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalTechnohunk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
