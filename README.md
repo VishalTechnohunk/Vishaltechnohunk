@@ -17,6 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Debug.+Repeat.;Always+learning+new+tech!;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 </p>
 <!-- About Me Section with Image on Right -->
+<!-- About Me Section with Image on Right -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px; padding: 20px 0;">
   
   <!-- Left Side Content -->
@@ -37,6 +38,7 @@
   </div>
 
 </div>
+
 
 
 
