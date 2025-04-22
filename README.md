@@ -14,6 +14,16 @@
 </div>
 
 
+<!-- Background Image with Text -->
+<div style="position: relative; text-align: center; color: white;">
+  <img src="https://raw.githubusercontent.com/VishalTechnohunk/<repo-name>/main/assets/banner.jpg" alt="Banner" style="width:100%; filter: brightness(70%); border-radius: 10px;" />
+  <h1 style="position: absolute; top: 40%; left: 50%; transform: translate(-50%, -50%); font-size: 2.5em;">
+    Hi 👋 I'm Vishal Yadav
+  </h1>
+  <p style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-size: 1.3em;">
+    Full Stack Developer | Java & MERN | Cloud Explorer 🚀
+  </p>
+</div>
 
 
 
