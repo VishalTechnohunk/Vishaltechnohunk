@@ -16,8 +16,9 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Yadav!;MERN+%2B+Java+%2F+Spring+Boot+Dev;Love+to+Build+Cool+Stuff!;Let's+Code+Together!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Animated Banner" />
 </h1>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; max-width: 600px;">
