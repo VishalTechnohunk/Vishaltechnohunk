@@ -51,7 +51,7 @@
   <div style="flex-shrink: 0;">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
          alt="Developer Animation" 
-         style="max-width: 300px; height: auto; border-radius: 10px;" />
+         style="max-width: 45%; height: auto; border-radius: 10px;" />
   </div>
 ## 📊 GitHub Stats:
 
