@@ -49,10 +49,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
   <!-- Right Side Image -->
   <div style="flex-shrink: 0;">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
-         alt="Developer Animation" 
-         style="max-width: 45%; height: auto; border-radius: 10px;" />
-  </div>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" 
+       alt="Developer Animation" 
+       style="width: 45%; height: auto; border-radius: 10px;" />
+</div>
+
 ## 📊 GitHub Stats:
 
 <p align="left">
